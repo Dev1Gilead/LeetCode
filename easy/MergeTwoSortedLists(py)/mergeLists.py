@@ -10,10 +10,4 @@ class Solution(object):
         :type list2: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        for a in range(0,9):
-            print(a)
-            a += 1
-
-for a in range(0,9):
-    print(a)
-    a += 1
+        
